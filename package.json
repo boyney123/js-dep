@@ -1,7 +1,7 @@
 {
   "name": "js-dep",
   "description": "Finds and logs the dependencies of a given JavaScript file.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/boyney123/js-dep",
   "author": {
     "name": "boyney123",
